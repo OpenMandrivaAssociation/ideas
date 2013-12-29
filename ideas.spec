@@ -4,7 +4,7 @@
 
 Name:		%{name}
 Version:	%{version}
-Release:	2
+Release:	3
 Summary:	Nintendo DS and GBA Emulator
 Group:		Emulators
 License:	Freeware
