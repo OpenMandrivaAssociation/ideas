@@ -4,7 +4,7 @@
 
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel 1
+Release:	2
 Summary:	Nintendo DS and GBA Emulator
 Group:		Emulators
 License:	Freeware
