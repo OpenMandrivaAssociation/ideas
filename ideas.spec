@@ -1,7 +1,7 @@
 %define		name		ideas
 %define		version		1.0.3.9
 %define		sversion	1039
-
+%define		debug_package %{nil}
 Name:		%{name}
 Version:	%{version}
 Release:	3
@@ -17,7 +17,6 @@ Source4:	syncroaud.tar
 Source5:	wifiplugin.zip
 BuildRequires:	imagemagick
 ExclusiveArch:	%{ix86}
-BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 
 %description
 iDeaS is an emulator that runs a lot of commercial games on PC with OpenGL.
