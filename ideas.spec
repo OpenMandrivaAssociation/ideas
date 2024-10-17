@@ -8,7 +8,7 @@ Release:	3
 Summary:	Nintendo DS and GBA Emulator
 Group:		Emulators
 License:	Freeware
-URL:		http://ideasemu.biz/index.php
+URL:		https://ideasemu.biz/index.php
 Source:		%{name}%{sversion}.tar.bz2
 Source1:	%{name}.png
 Source2:	acekardplugin.zip
